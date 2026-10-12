@@ -1,0 +1,5 @@
+{
+  "case_id": "DEMO-001",
+  "reason": "product_not_received",
+  "evidence_present": ["order_confirmation", "customer_communications"]
+}
